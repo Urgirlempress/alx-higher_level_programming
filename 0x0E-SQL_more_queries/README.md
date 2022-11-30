@@ -3,5 +3,5 @@
 <!-- SQL -->
 ## SQL
 
-<!-- MY SQL -->
-## My SQL
+<!-- MYSQL -->
+## MySQL
