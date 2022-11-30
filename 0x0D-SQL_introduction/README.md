@@ -60,6 +60,9 @@ SQL stands for Structured Query Language. It is used to communicate with a datab
 * Editing data - UPDATE statement.
 * Removing data - DELETE statement.
 
+<!-- E-MAIL -->
+## E-mail
+
 * [Empress](https://twitter.com/Emp_Ress) - stephanieklein734@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
